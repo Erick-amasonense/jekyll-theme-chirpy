@@ -13,20 +13,19 @@ República Dominicana ofrece algunos de los destinos más bellos y representativ
 ## 🏙 Zona Colonial – Santo Domingo
 El corazón histórico del país, declarado Patrimonio de la Humanidad por la UNESCO. Ideal para caminar entre calles coloniales, monumentos y museos.
 
-![Zona Colonial](img/zona-colonial.png)
+![Zona Colonial]({{ '/img/zona-colonial.png' | relative_url }})
 
 ---
 
 ## 🏖 Punta Cana
 Famosa por sus playas de arena blanca y aguas cristalinas. Es el destino perfecto para relajarse y disfrutar de actividades acuáticas.
 
-![Punta Cana](img/punta-cana.png)
+![Punta Cana]({{ '/img/punta-cana.png' | relative_url }})
 
 ---
 
 ## 🌿 Samaná
 Una región natural impresionante que destaca por sus paisajes tropicales y el famoso **Salto El Limón**.
 
-![Samaná](img/samana.png)
-
+![Punta Cana]({{ '/img/punta-cana.png' | relative_url }})
 ---
