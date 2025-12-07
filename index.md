@@ -35,9 +35,6 @@ Platos emblemáticos:
 
 ---
 
-## Últimas publicaciones
-
-Aquí encontrarás artículos sobre lugares increíbles, recomendaciones, cultura y experiencias para disfrutar lo mejor de República Dominicana.  
-¡Explora el blog usando el menú lateral o las categorías!
+## Páginas Relacionadas
 
 - [Gastronomía típica dominicana: sabores que enamoran](/2025/01/20-gastronomia-tipica-dominicana/)
