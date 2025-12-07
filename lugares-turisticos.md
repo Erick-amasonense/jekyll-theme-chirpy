@@ -1,6 +1,7 @@
 ---
 layout: pages
 title: lugares turisticos
+permalink: /lugares-turisticos/
 ---
 
 # Qué visitar en República Dominicana
