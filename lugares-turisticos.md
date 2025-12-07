@@ -1,5 +1,5 @@
 ---
-layout: pages
+layout: home
 title: lugares turisticos
 permalink: /lugares-turisticos/
 ---
