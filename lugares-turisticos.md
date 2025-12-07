@@ -4,7 +4,7 @@ icon: fas fa-map-marked-alt
 order: 3
 ---
 
-# Qué visitar en República Dominicana 🇩🇴
+# Qué visitar en República Dominicana
 
 República Dominicana ofrece algunos de los destinos más bellos y representativos del Caribe. Aquí te presentamos **tres lugares esenciales** que no puedes dejar pasar.
 
@@ -30,5 +30,3 @@ Una región natural impresionante que destaca por sus paisajes tropicales y el f
 ![Samaná](img/samana.png)
 
 ---
-
-Explora el blog para descubrir más lugares, consejos y experiencias de viaje.
