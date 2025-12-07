@@ -1,5 +1,6 @@
 ---
 layout: pages
+title: lugares turisticos
 ---
 
 # Qué visitar en República Dominicana
