@@ -1,7 +1,5 @@
 ---
-title: Qué visitar
-icon: fas fa-map-marked-alt
-order: 3
+title: pages
 ---
 
 # Qué visitar en República Dominicana
