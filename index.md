@@ -37,4 +37,4 @@ Platos emblemáticos:
 
 ## Páginas Relacionadas
 
-- [Gastronomía típica dominicana: sabores que enamoran](/2025/01/20-gastronomia-tipica-dominicana/)
+- [Lgares turísticos RD ](/lugares-turisticos/)
