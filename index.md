@@ -8,7 +8,7 @@ title: "República Dominicana: Por qué visitarla"
 República Dominicana es uno de los destinos turísticos más completos y vibrantes del Caribe.  
 Con playas paradisíacas, rica cultura, música única y una gastronomía inolvidable, este país ofrece experiencias para todo tipo de viajeros.
 
-![Playa Dominicana](assets/img/playa.png)
+![Playa Dominicana](img/playa.png)
 
 ## ¿Por qué visitar República Dominicana?
 
