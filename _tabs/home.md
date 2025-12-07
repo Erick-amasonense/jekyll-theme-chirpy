@@ -1,6 +1,6 @@
 ---
 layout: home
-title: "República Dominicana: Por qué visitarla"
+title: home
 icon: fas fa-home
 order: 1
 ---
